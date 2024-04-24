@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391444405961",
+    "project_id": "admit-hub",
+    "storage_bucket": "admit-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391444405961:android:a0452f0db3cfc953623718",
+        "android_client_info": {
+          "package_name": "com.example.admit_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkND4iyDpx9G54EhS3aX-fdp_VASQ9ZSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
